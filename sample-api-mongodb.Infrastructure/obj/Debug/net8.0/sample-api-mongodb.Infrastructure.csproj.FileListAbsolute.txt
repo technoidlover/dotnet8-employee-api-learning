@@ -1,0 +1,15 @@
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\bin\Debug\net8.0\sample-api-mongodb.Infrastructure.deps.json
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\bin\Debug\net8.0\sample-api-mongodb.Infrastructure.dll
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\bin\Debug\net8.0\sample-api-mongodb.Infrastructure.pdb
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\bin\Debug\net8.0\sample-api-mongodb.Core.dll
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\bin\Debug\net8.0\sample-api-mongodb.Core.pdb
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\sample-api-mongodb.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\sample-api-mongodb.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\sample-api-mongodb.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\sample-api-mongodb.Infrastructure.AssemblyInfo.cs
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\sample-api-mongodb.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\sample-a.6A8FA8F0.Up2Date
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\sample-api-mongodb.Infrastructure.dll
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\refint\sample-api-mongodb.Infrastructure.dll
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\sample-api-mongodb.Infrastructure.pdb
+C:\Users\minhnh\Desktop\employee-api-master\sample-api-mongodb.Infrastructure\obj\Debug\net8.0\ref\sample-api-mongodb.Infrastructure.dll
