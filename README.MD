@@ -30,5 +30,5 @@ Before you can run the project, ensure you have the following installed:
 Once you have the necessary tools installed, you can begin working on the project by cloning the repository, configuring your environment, and running the application.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/technoidlover/dotnet8-employee-api-learning.git
 cd sample-api-mongodb.Api
